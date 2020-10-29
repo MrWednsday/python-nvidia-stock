@@ -1,0 +1,342 @@
+[
+    { 
+        "AUT" : {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5440853700"
+                },
+                "3090": {
+                    "SKU": "5444941400"
+                }
+            }
+        },
+        "Locale": "de_de",
+        "NvidiaLocale": "de-de",
+        "Currency": "EUR"
+    },
+    { 
+        "BEL": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438795700"
+                },
+                "3090": {
+                    "SKU": "5438795600"
+                }
+            }
+        },
+        "Locale": "fr_fr",
+        "NvidiaLocale": "fr-fr",
+        "Currency": "EUR"
+    },
+    {
+        "CAN": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": null
+                },
+                "3090": {
+                    "SKU": null
+                }
+            }
+        },
+        "Locale": "en_us",
+        "NvidiaLocale": "en-ca",
+        "Currency": "CAN"
+    },
+    { 
+        "CZE": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438793800"
+                },
+                "3090": {
+                    "SKU": "5438793600"
+                }
+            }
+        },
+        "Locale": "en_gb",
+        "NvidiaLocale": "en-gb",
+        "Currency": "EUR"
+    },
+    {
+        "DNK": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438793300"
+                },
+                "3090": {
+                    "SKU": "5438793500"
+                }
+            }},
+        "Locale": "en_gb",
+        "NvidiaLocale": "en-gb",
+        "Currency": "EUR"
+    },
+    { 
+        "FIN": {
+            "SKULIST" : {
+            "3070": {
+                "SKU": null
+            },
+            "3080": {
+                "SKU": "5438793300"
+            },
+            "3090": {
+                "SKU": null
+            }
+        }},
+        "Locale": "en_gb",
+        "NvidiaLocale": "en-gb",
+        "Currency": "EUR"
+    },
+    {
+        "FRA": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438795200"
+                },
+                "3090": {
+                    "SKU": "5438761500"
+                }
+            }
+        },
+        "Locale": "fr_fr",
+        "NvidiaLocale": "fr-fr",
+        "Currency": "EUR"
+    },
+    {
+        "DEU": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438792300"
+                },
+                "3090": {
+                    "SKU": "5438761400"
+                }
+            }
+        },
+        "Locale": "de_de",
+        "NvidiaLocale": "de-de",
+        "Currency": "EUR"
+    },
+    {
+        "USA": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438481700"
+                },
+                "3090": {
+                    "SKU": "5438481600"
+                }
+            }
+        },
+        "Locale": "en_us",
+        "NvidiaLocale": "en-us",
+        "Currency": "USD"
+    },
+    {
+        "GBR": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438792800"
+                },
+                "3090": {
+                    "SKU": "5438792700"
+                }
+            }
+        },
+        "Locale": "en_gb",
+        "NvidiaLocale": "en-gb",
+        "Currency": "GBP"
+    },
+    {
+        "IRL": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438792800"
+                },
+                "3090": {
+                    "SKU": "5438792700"
+                }
+            }
+        },
+        "Locale": "en_gb",
+        "NvidiaLocale": "en-gb",
+        "Currency": "GBP"
+    },
+    {
+        "ITA": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438796200"
+                },
+                "3090": {
+                    "SKU": "5438796100"
+                }
+            }
+        },
+        "Locale": "it_it",
+        "NvidiaLocale": "it-it",
+        "Currency": "EUR"
+    },
+    {
+        "SWE": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438798100"
+                },
+                "3090": {
+                    "SKU": "5438761600"
+                }
+            }
+        },
+        "Locale": "sv_SE",
+        "NvidiaLocale": "sv-se",
+        "Currency": "SEK"
+    },
+    {
+        "LUX": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438795700"
+                },
+                "3090": {
+                    "SKU": "5438795600"
+                }
+            }
+        },
+        "Locale": "fr_fr",
+        "NvidiaLocale": "fr-fr",
+        "Currency": "EUR"
+    },
+    {
+        "POL": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438797700"
+                },
+                "3090": {
+                    "SKU": "5438797600"
+                }
+            }
+        },
+        "Locale": "pl_pl",
+        "NvidiaLocale": "pl-pl",
+        "Currency": "PLN"
+    },
+    {
+        "PRT": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438794300"
+                },
+                "3090": {
+                    "SKU": null
+                }
+            }
+        },
+        "Locale": "en_gb",
+        "NvidiaLocale": "en-gb",
+        "Currency": "EUR"
+    },
+    {
+        "ESP": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438794800"
+                },
+                "3090": {
+                    "SKU": "5438794700"
+                }
+            }
+        },
+        "Locale": "es_es",
+        "NvidiaLocale": "es-es",
+        "Currency": "EUR"
+    },
+    {
+        "NOR": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438797200"
+                },
+                "3090": {
+                    "SKU": "5438797100"
+                }
+            }
+        },
+        "Locale": "no_NO",
+        "NvidiaLocale": "no-NO",
+        "Currency": "NOK"
+    },
+    {
+        "NLD": {
+            "SKULIST" : {
+                "3070": {
+                    "SKU": null
+                },
+                "3080": {
+                    "SKU": "5438796700"
+                },
+                "3090": {
+                    "SKU": "5438796600"
+                }
+            }
+        },
+        "Locale": "nl_nl",
+        "NvidiaLocale": "nl-nl",
+        "Currency": "EUR"
+    }
+]
